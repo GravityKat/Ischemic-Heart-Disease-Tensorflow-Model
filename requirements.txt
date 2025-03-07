@@ -14,4 +14,10 @@ python-dotenv
 scikit-learn
 tqdm
 typer
+ipykernel
+jupyter-server
+keras
+tensorflow
 -e .
+
+# note, there is an issue with the metadata for sklearn, related to Cython, but if u dont use it ignore?
